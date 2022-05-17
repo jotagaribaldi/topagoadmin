@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+3a50fac5de457935b7b4d3efe053de88ce540ba5 refs/remotes/origin/main
+ad4d242eedc9f22ae882361ff1da0d4382c722ee refs/remotes/origin/mern-booking
+b9226c6de61075bdf238df1282a6f2519b3a40a5 refs/remotes/origin/react-admin
+612e629af1913651901a4f078e293138c64f11f8 refs/remotes/origin/react-booking-ui
+e8e9e6ae1ba292d1178e32d426d62478b45de8e0 refs/remotes/origin/react-firebase
+ac86a0990ab5121a91befc951441db42d1ef4ebc refs/remotes/origin/react-mini
+52ec6880d0130ea40e3180e4745c0cf330a95bc0 refs/remotes/origin/react-mui
+2ad7596360fa086f0e4dfaa67b3efdd4f1b1a11a refs/remotes/origin/react-testing
